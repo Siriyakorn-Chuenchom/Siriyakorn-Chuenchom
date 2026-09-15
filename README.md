@@ -46,16 +46,6 @@ object detection.
   <li>Audio and Vibration Alerts</li>
 </ul>
 
-<h2>📚 Currently Learning</h2>
-
-<ul>
-  <li>Software Testing & QA</li>
-  <li>Web Development</li>
-  <li>Software Development</li>
-  <li>AI & Computer Vision</li>
-  <li>IoT Systems</li>
-</ul>
-
 <h2>📫 Contact</h2>
 
 <p>
