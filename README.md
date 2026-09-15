@@ -55,7 +55,5 @@ object detection.
   <a href="https://line.me/ti/p/_PdgaT40Sl">
     <img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white">
   </a>
-  <a href="tel:0906685259">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white">
-  </a>
+  
 </p>
